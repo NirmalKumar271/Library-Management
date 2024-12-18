@@ -1,5 +1,3 @@
-# Library-Management
-
 Library Management System
 
 📚 A comprehensive Library Management System built with Spring Boot, designed to efficiently manage books, members, and transactions. This project provides RESTful APIs for seamless interaction, with tools like Postman for API testing and MySQL Workbench for database management.
